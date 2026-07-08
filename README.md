@@ -1,4 +1,4 @@
-# Prashant Dayma – Video Editor & Cinematographer Portfolio
+# Prashant Peeramal – Video Editor & Cinematographer Portfolio
 
 A modern portfolio website showcasing my cinematic edits, travel films, and creative services. Built to provide clients with an immersive experience and an easy way to explore my work and get in touch.
 
